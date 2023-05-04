@@ -1,0 +1,308 @@
+[
+    {
+        "id": "bd500b1f3bdb",
+        "bannerImage": "https://i.ibb.co/rHHmyFw/hells-kitchen-gordon-ramsay-520x293.png",
+        "chefDescription": "Gordon James Ramsay is a British chef, restaurateur, writer, and television personality.",
+        "chefImage": "https://example.com/gordon_profile.jpg",
+        "chefName": "Gordon Ramsay",
+        "experience": "Over 30 years of experience",
+        "recipeNumber": "3",
+        "likes": "1000",
+        "recipe": [
+            {
+                "name": "Beef Wellington",
+                "rating": 5,
+                "image": "https://i.ibb.co/SfdtbR1/beef-wellington-recipe-1631634076.jpg",
+                "ingredients": [
+                    "Beef fillet",
+                    "Mushrooms",
+                    "Prosciutto",
+                    "Puff pastry",
+                    "Egg"
+                ],
+                "method": "1. Sear the beef fillet. 2. Make the mushroom duxelles. 3. Wrap the beef in prosciutto and duxelles. 4. Wrap the beef in puff pastry. 5. Bake in the oven."
+            },
+            {
+                "name": "Lamb Chops",
+                "rating": 5,
+                "image": "https://i.ibb.co/TkKfGXZ/1383077381520.jpg",
+                "ingredients": [
+                    "Lamb chops",
+                    "Garlic",
+                    "Thyme",
+                    "Butter",
+                    "Olive oil"
+                ],
+                "method": "1. Season the lamb chops. 2. Sear the lamb chops. 3. Add garlic and thyme. 4. Baste the lamb chops with butter and olive oil."
+            },
+            {
+                "name": "Beef Burger",
+                "rating": 4.5,
+                "image": "https://i.ibb.co/sJs227r/beef-burger-recipe-2.jpg",
+                "ingredients": [
+                    "Ground beef",
+                    "Burger buns",
+                    "Cheese",
+                    "Lettuce",
+                    "Tomato"
+                ],
+                "method": "1. Season the ground beef. 2. Form into patties. 3. Grill the patties. 4. Assemble the burger with buns, cheese, lettuce, and tomato."
+            }
+        ]
+    },
+    {
+        "id": "5dd0b9c4f675",
+        "bannerImage": "https://i.ibb.co/bQ4hfhF/4c0993-600202ae137042359e22f89ef721af7d-mv2.webp",
+        "chefDescription": "James Trevor Oliver MBE is a British chef and restaurateur.",
+        "chefImage": "https://example.com/jamie_profile.jpg",
+        "chefName": "Jamie Oliver",
+        "experience": "Over 20 years of experience",
+        "recipeNumber": "3",
+        "likes": "800",
+        "recipe": [
+            {
+                "name": "Roast Chicken",
+                "rating": 5,
+                "image": "https://i.ibb.co/QMFXhrg/53007558.webp",
+                "ingredients": [
+                    "Whole chicken",
+                    "Lemon",
+                    "Onion",
+                    "Garlic cloves",
+                    "Olive oil"
+                ],
+                "method": "1. Preheat the oven. 2. Season the chicken. 3. Stuff the chicken with lemon and onion. 4. Roast the chicken in the oven."
+            },
+            {
+                "name": "Spaghetti Carbonara",
+                "rating": 4.5,
+                "image": "https://i.ibb.co/dGvMcPG/pasta-carbonara-recipe-5210168-hero-01-80090e56abc04ca19d88ebf7fad1d157.jpg",
+                "ingredients": [
+                    "Spaghetti",
+                    "Pancetta",
+                    "Egg yolks",
+                    "Parmesan cheese",
+                    "Black pepper"
+                ],
+                "method": "1. Cook the spaghetti. 2. Fry the pancetta. 3. Beat the egg yolks and Parmesan cheese. 4. Mix everything together with black pepper."
+            },
+            {
+                "name": "Fish and Chips",
+                "rating": 4,
+                "image": "https://i.ibb.co/KLgYyBn/59736398.webp",
+                "ingredients": [
+                    "Fish fillets",
+                    "Potatoes",
+                    "Flour",
+                    "Beer",
+                    "Salt"
+                ],
+                "method": "1. Cut the potatoes into chips. 2. Coat the fish fillets in flour. 3. Mix the beer batter. 4. Fry the fish and chips."
+            }
+        ]
+    },
+    {
+        "id": "66899394197a3",
+        "bannerImage": "https://i.ibb.co/dcsJcR3/Ina-Gartenin-Be-My-Guestwith-Ina-Garten-scaled.jpg",
+        "chefDescription": "Ina Garten is an American author and host of the Food Network program Barefoot Contessa.",
+        "chefImage": "https://example.com/ina_profile.jpg",
+        "chefName": "Ina Garten",
+        "experience": "Over 40 years of experience",
+        "recipeNumber": "3",
+        "likes": "2500",
+        "recipe": [
+            {
+                "name": "Roast Chicken",
+                "rating": 5,
+                "image": "https://i.ibb.co/QMFXhrg/53007558.webp",
+                "ingredients": [
+                    "Whole chicken",
+                    "Lemon",
+                    "Onion",
+                    "Garlic cloves",
+                    "Olive oil"
+                ],
+                "method": "1. Preheat the oven. 2. Season the chicken with salt and pepper. 3. Stuff the chicken with lemon, onion, and garlic. 4. Roast the chicken in the oven until cooked through."
+            },
+            {
+                "name": "Tomato and Goat Cheese Tart",
+                "rating": 4.5,
+                "image": "https://i.ibb.co/pjWWgVz/tomato-and-goats-cheese-tart-100262-1.jpg",
+                "ingredients": [
+                    "Puff pastry",
+                    "Goat cheese",
+                    "Tomatoes",
+                    "Basil",
+                    "Olive oil"
+                ],
+                "method": "1. Preheat the oven. 2. Roll out the puff pastry. 3. Spread the goat cheese on the pastry. 4. Top with sliced tomatoes and basil. 5. Drizzle with olive oil. 6. Bake in the oven."
+            },
+            {
+                "name": "Pasta with Pesto",
+                "rating": 4,
+                "image": "https://i.ibb.co/DYNLC9t/11887-pesto-pasta-Rita-1x1-1-501c953b29074ab193e2b5ad36e64648.jpg",
+                "ingredients": [
+                    "Pasta",
+                    "Basil",
+                    "Pine nuts",
+                    "Garlic",
+                    "Parmesan cheese"
+                ],
+                "method": "1. Cook the pasta. 2. Make the pesto by blending basil, pine nuts, garlic, and parmesan cheese. 3. Toss the pasta with the pesto."
+            }
+        ]
+    },
+    {
+        "id": "03b9f2c3",
+        "bannerImage": "https://i.ibb.co/z5FtRF5/lawson.webp",
+        "chefDescription": "Nigella Lawson is an English food writer and television cook. She is known for her relaxed approach to cooking and her love of comfort food.",
+        "chefImage": "https://example.com/nigella_profile.jpg",
+        "chefName": "Nigella Lawson",
+        "experience": "Over 20 years of experience",
+        "recipeNumber": "3",
+        "likes": "5000",
+        "recipe": [
+            {
+                "name": "Pasta with Cauliflower and Anchovies",
+                "rating": 4.2,
+                "image": "https://i.ibb.co/zGc9zr8/download-3.jpg",
+                "ingredients": [
+                    "Pasta",
+                    "Cauliflower",
+                    "Garlic",
+                    "Anchovy fillets",
+                    "Chili flakes"
+                ],
+                "method": "1. Cook the pasta. 2. Fry the cauliflower, garlic, anchovies, and chili flakes in olive oil. 3. Mix the pasta with the cauliflower mixture. 4. Garnish with parsley and lemon zest."
+            },
+            {
+                "name": "Roast Chicken with Lemon and Rosemary",
+                "rating": 4.8,
+                "image": "https://i.ibb.co/QMFXhrg/53007558.webp",
+                "ingredients": [
+                    "Whole chicken",
+                    "Lemon",
+                    "Rosemary",
+                    "Garlic",
+                    "Olive oil"
+                ],
+                "method": "1. Stuff the chicken with lemon, garlic, and rosemary. 2. Rub the chicken with olive oil and butter. 3. Roast in the oven until golden brown."
+            },
+            {
+                "name": "Chocolate Brownies",
+                "rating": 4.5,
+                "image": "https://i.ibb.co/jRhQbqS/Brownies-0-SQ.webp",
+                "ingredients": [
+                    "Butter",
+                    "Dark chocolate",
+                    "Sugar",
+                    "Eggs",
+                    "Flour"
+                ],
+                "method": "1. Melt butter and chocolate together. 2. Add sugar and eggs. 3. Mix in dry ingredients. 4. Bake in the oven until a toothpick comes out clean."
+            }
+        ]
+    },
+    {
+        "id": "b14b2047d793",
+        "bannerImage": "https://i.ibb.co/QmZV25Q/Yotam-Ottolenghi-Master-Class-review.jpg",
+        "chefDescription": "Yotam Ottolenghi is an Israeli-British chef, restaurant owner, and food writer. He is known for his vegetarian and Middle Eastern-inspired cuisine.",
+        "chefImage": "https://example.com/ottolenghi_profile.jpg",
+        "chefName": "Yotam Ottolenghi",
+        "experience": "Over 15 years of experience",
+        "recipeNumber": "3",
+        "likes": "7500",
+        "recipe": [
+            {
+                "name": "Spicy Mushroom Lasagna",
+                "rating": 4.7,
+                "image": "https://i.ibb.co/4SWrtGN/12recipehealth-article-Large-v2.jpg",
+                "ingredients": [
+                    "Mushrooms",
+                    "Tomatoes",
+                    "Garlic",
+                    "Cumin",
+                    "Cinnamon"
+                ],
+                "method": "1. Cook the lasagna noodles. 2. Sauté the mushrooms, garlic, and spices. 3. Add the tomatoes and simmer until thick. 4. Layer the lasagna noodles, mushroom mixture, and cheeses. 5. Bake in the oven until golden brown."
+            },
+            {
+                "name": "Roasted Cauliflower Steaks",
+                "rating": 4.5,
+                "image": "https://i.ibb.co/F4p3hVy/roasted-cauliflower-steaks-8-1200.jpg",
+                "ingredients": [
+                    "Cauliflower",
+                    "Olive oil",
+                    "Lemon juice",
+                    "Garlic",
+                    "Parsley"
+                ],
+                "method": "1. Cut the cauliflower into steaks. 2. Brush with olive oil and lemon juice. 3. Roast in the oven until tender. 4. Serve with garlic, parsley, and toasted almonds."
+            },
+            {
+                "name": "Butternut Squash and Chickpea Salad",
+                "rating": 4.3,
+                "image": "https://i.ibb.co/yyF3bCX/download-2.jpg",
+                "ingredients": [
+                    "Chickpeas",
+                    "Red onion",
+                    "Olive oil",
+                    "Honey",
+                    "Cumin"
+                ],
+                "method": "1. Roast the butternut squash and chickpeas with cumin and smoked paprika. 2. Mix with red onion, parsley, and mint. 3. Dress with lemon juice, olive oil, honey, and salt. 4. Top with crumbled feta cheese."
+            }
+        ]
+    },
+    {
+        "id": "0a85847e3958",
+        "bannerImage": "https://i.ibb.co/7Jk46SP/christina-tosi-chefs-table-0.jpg",
+        "chefDescription": "Christina Tosi is an American chef, author, and television personality. She is the founder of Milk Bar, a dessert and bakery chain known for its innovative and playful treats.",
+        "chefImage": "https://example.com/tosi_profile.jpg",
+        "chefName": "Christina Tosi",
+        "experience": "Over 10 years of experience",
+        "recipeNumber": "3",
+        "likes": "8200",
+        "recipe": [
+            {
+                "name": "Birthday Cake",
+                "rating": 4.8,
+                "image": "https://i.ibb.co/6BK6zdw/download-1.jpg",
+                "ingredients": [
+                    "Flour",
+                    "Sugar",
+                    "Butter",
+                    "Eggs",
+                    "Milk"
+                ],
+                "method": "1. Cream the butter and sugar. 2. Add the eggs and vanilla extract. 3. Mix in the dry ingredients and milk. 4. Fold in the rainbow sprinkles. 5. Bake in the oven and decorate as desired."
+            },
+            {
+                "name": "Compost Cookies",
+                "rating": 4.5,
+                "image": "https://i.ibb.co/h7YgBwk/download.jpg",
+                "ingredients": [
+                    "Flour",
+                    "Butter",
+                    "Sugar",
+                    "Egg",
+                    "Pretzels"
+                ],
+                "method": "1. Cream the butter and sugar. 2. Add the egg. 3. Mix in the dry ingredients and chopped add-ins. 4. Bake in the oven and cool on a wire rack."
+            },
+            {
+                "name": "Milk Bar Pie",
+                "rating": 4.2,
+                "image": "https://i.ibb.co/T15CXqT/02-gifts-under-50-milk-bar-pie.webp",
+                "ingredients": [
+                    "Flour",
+                    "Butter",
+                    "Sugar",
+                    "Cornstarch",
+                    "Salt"
+                ],
+                "method": "1. Mix the dry ingredients. 2. Cream the butter and sugar. 3. Add the dry ingredients and eggs. 4. Mix in the cream and vanilla extract. 5. Pour into a pie crust and bake in the oven."
+            }
+        ]
+    }
+]
